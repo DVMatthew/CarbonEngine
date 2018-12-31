@@ -4,6 +4,7 @@
 // For use by Hazel applications
 
 #include <stdio.h>
+#include "Carbon/Log.h"
 #include "Carbon/Application.h"
 
 // ---Entry Point---------------------

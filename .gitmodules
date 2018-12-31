@@ -1,0 +1,3 @@
+[submodule "Carbon/vendor/spdlog"]
+	path = Carbon/vendor/spdlog
+	url = https://github.com/gabime/spdlog

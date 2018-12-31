@@ -7,5 +7,5 @@
 		#define CARBON_API __declspec(dllimport)
 	#endif
 #else
-#error Hazel only supports Windows!
+#error Carbon only supports Windows!
 #endif
